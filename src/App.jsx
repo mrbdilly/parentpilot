@@ -171,8 +171,8 @@ export default function ParentPilot() {
           </div>
 
           <div className="bg-white rounded-3xl shadow-2xl p-8 sm:p-10 space-y-10">
-            <div className="text-center mb-6">
-              <p className="text-lg text-gray-600">
+            <div className="bg-blue-500 rounded-2xl p-5 mb-8 -mx-8 -mt-8 sm:-mx-10 sm:-mt-10">
+              <p className="text-xl text-white font-semibold text-center">
                 Get personalized toddler activities in under 2 minutes
               </p>
             </div>
